@@ -50,7 +50,17 @@ Tiada tangis dan keluh
        D              C#m
 Di neg'ri seb'rang pelangi
         E           A
-Kita k'lak kan bertemu`,
+Kita k'lak kan bertemu
+
+[Chorus]
+        D           A
+Banyak hal tak ku pahami
+       B          E
+Dalam masa menjelang
+        A7            D 
+Tapi t'rang bagi ku ini
+        E            A 
+Tangan Tuhan yang pegang`,
       kasihsetiamu: `Tabita Sipahutar - Kasih Setia-Mu
 [Intro]
 C D B Em D C Cm
